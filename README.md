@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://github.com/user-attachments/assets/7480a3e7-4312-4f83-9b31-10b38ef56dbf) Hey! Nice to see you.
+
 <!--
 **GULU-H/GULU-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
