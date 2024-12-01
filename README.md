@@ -6,7 +6,7 @@
 <h3>Things I code with</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/-Redis-#FF4438?style=flat-square&logo=redis&logoColor=#FF4438" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-FF4438?style=flat-square&logo=redis&logoColor=#FF4438" />
   <img alt="Spring Cloud" src="https://img.shields.io/badge/-Spring Cloud-#6DB33F?style=flat-square&logo=springboot&logoColor=#6DB33F" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-#2496ED?style=flat-square&logo=docker&logoColor=#2496ED" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-#4479A1?style=flat-square&logo=mysql&logoColor=#4479A1" />
