@@ -2,6 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/7480a3e7-4312-4f83-9b31-10b38ef56dbf) Hey! Nice to see you.
 
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daneliya/Daneliya/output/github-contribution-grid-snake-dark.svg">
