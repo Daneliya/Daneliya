@@ -2,6 +2,13 @@
 
 ![image](https://github.com/user-attachments/assets/7480a3e7-4312-4f83-9b31-10b38ef56dbf) Hey! Nice to see you.
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zero-coder/Zero-coder/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zero-coder/Zero-coder/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Zero-coder/Zero-coder/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!--
 **GULU-H/GULU-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
